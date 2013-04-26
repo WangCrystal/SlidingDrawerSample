@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SampleSlidingMenu</string>
+    <string name="right_up_label">right_up_laben</string>
+    <string name="right_up">right_up</string>
+    <string name="anim_slide">Slide Up!</string>
+
+</resources>
